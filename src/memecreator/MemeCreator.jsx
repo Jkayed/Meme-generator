@@ -325,7 +325,9 @@ const MemeCreator = () => {
               className="w-24 mt-8 ml-3"
               onChange={selectColorFunction}
             >
-              {(color) => <SelectItem>{color.label}</SelectItem>}
+              {(color) => (
+                <SelectItem className="w-20 ">{color.label}</SelectItem>
+              )}
             </Select>
           </div>
         </Card>

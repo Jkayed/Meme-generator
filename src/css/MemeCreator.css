@@ -1,5 +1,7 @@
 .meme-creator {
-  margin: auto;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .meme-image-section {
   width: 400px;
