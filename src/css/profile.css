@@ -1,0 +1,56 @@
+.profile-section {
+  background-color: rgb(250, 247, 247);
+  border-width: 1px;
+  width: 80%;
+  height: 350px;
+  margin-right: auto;
+  margin-left: 190px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.banner {
+  height: 200px;
+  background-color: bisque;
+  border-radius: 10px;
+}
+
+.profile-picture {
+  margin-left: 50px;
+  width: 120px;
+  height: 122px;
+  object-fit: cover;
+  border-radius: 60px;
+  margin-top: -65px;
+}
+
+.profile-name {
+  margin-top: 10px;
+  font-weight: 700;
+  margin-left: 80px;
+}
+
+.posts-label {
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.profile-posts-section {
+  background-color: rgb(250, 247, 247);
+  height: 117%;
+  padding-bottom: 90px;
+}
+
+.profile-navbar {
+  display: flex;
+  margin: auto;
+}
+
+.delete-button {
+  margin-top: 20px;
+  margin-left: -110px;
+  font-size: 18px;
+  cursor: pointer;
+}
